@@ -60,7 +60,7 @@ class _AnaSayfaState extends State<AnaSayfa> {
                     context: context,
                     builder: (BuildContext context) {
                       return Column(children: [
-                        duyuru("James seni takip etti", "3 dakika önce"),
+                        duyuru("James seni takip etti2", "3 dakika önce"),
                         duyuru("Berke gönderini beğendi", "7 dakika önce"),
                         duyuru("Emre gönderine yorum yapti", "1 saat önce")
                       ]);
